@@ -1,0 +1,58 @@
+1. Logical Error
+jenis error pada programming
+
+
+Seperti yang dijelaskan oleh Hedgethink, logical error atau kesalahan logika merupakan error yang paling sulit untuk dideteksi.
+
+Hal itu disebabkan error yang satu ini terjadi bukan karena adanya kesalahan penulisan atau kesalahan pada proses runtime.
+
+Namun, juga karena adanya kesalahan dari programmer dalam penggunaan algoritma.
+
+Saat logikanya salah, pasti output yang dihasilkan juga akan ikut salah. Kemudian untuk mendeteksinya cukup sulit dan memakan waktu.
+
+Sebagian besar dari logical error terjadi karena adanya kesalahan dalam perhitungan atau menggunakan variabel yang salah.
+
+Saat terjadi logical error biasanya tidak akan membuat program berhenti secara total. Pasalnya, program akan tetap bisa berjalan normal, tapi tidak bisa berfungsi seperti yang diharapkan.
+
+2. Syntax Error
+
+Selain logical error, salah satu jenis error pada programming yang paling sering terjadi adalah syntax errors atau kesalahan tata bahasa.
+
+Jenis error yang satu ini disebut paling banyak terjadi dalam programming. Meski begitu, mendeteksinya ternyata cukup mudah dan tidak serumit seperti logical error.
+
+Teach All About IT juga menjelaskan bahwa syntax error bisa terjadi saat ada kesalahan ejaan pada salah satu kata kunci atau saat ada kesalahan dengan struktur kodenya.
+
+Ketika terjadi syntax error maka kode tidak akan berjalan dengan normal karena komputer tidak dapat memahaminya.
+
+Untuk memperbaiki jenis error yang satu ini hanya membutuhkan ketelitian untuk mencari adanya kesalahan penulisannya.
+Baca Juga: Mengenali Perbedaan Bahasa Pemrograman Java dan JavaScript
+
+3. Runtime Error
+jenis error
+
+
+Dalam pemaparan BBC, runtime error adalah kesalahan yang terjadi saat sedang menjalankan suatu program.
+
+Ada beberapa penyebab terjadinya jenis error yang satu ini. Misalnya, kesalahan dalam proses input, kesalahan perhitungan, dan proses output.
+
+Saat terjadi runtime error, potensi terjadinya crash pada program menjadi cukup besar.
+
+Jika ingin memperbaiki jenis error yang satu ini, programmer mau tidak mau harus kembali lagi ke fase coding untuk mencari kesalahannya.
+
+4. Compilation Error
+error pada programming
+
+
+Jenis error pada programming yang perlu kamu ketahui adalah compilation error.
+
+Techspirited menjelaskan bahwa compilation error terjadi saat proses di mana program yang ditulis dalam bahasa tingkat tinggi dikonversi ke bentuk yang dapat dibaca oleh mesin.
+
+Dalam proses tersebut dapat muncul beberapa jenis error seperti syntax error. Bahkan, terkadang meskipun kode syntax sudah benar, tapi compilation error masih bisa tetap terjadi.
+
+Hal itu dikarenakan adanya masalah di compiler itu sendiri. Namun, jangan khawatir karena jenis error ini bisa diperbaiki pada fase development.
+
+5. Interfacing Error
+
+Interfacing error kemungkinan besar dapat terjadi karena adanya ketidaksesuaian program software dengan interface perangkat keras yang digunakan.
+
+Sementara itu, pada kasus aplikasi web biasanya terjadi karena penggunaan protokol web yang salah.
